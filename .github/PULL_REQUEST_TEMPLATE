@@ -1,0 +1,32 @@
+<img src="https://img.shields.io/badge/Java-17-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-3.x-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+# 🌟 Pull Request
+
+## 📝 작업 요약 (Summary)
+-
+
+## 🛠️ 변경 유형 (Type of Change)
+|   | 유형 | 설명 |
+|---|:---:|:---|
+| | ✨ | **Feat** (새로운 기능 추가) |
+| | 🐛 | **Fix** (버그 수정) |
+| | ♻️ | **Refactor** (코드 리팩토링) |
+| | 💄 | **Style** (코드 포맷팅, 세미콜론 누락 등) |
+| | 📚 | **Docs** (문서 수정) |
+| | ⚙️ | **Chore** (빌드 업무 수정, 패키지 매니저 수정 등) |
+
+## 💻 작업 상세 내용 (Details)
+- [ ]
+- [ ]
+
+## 📸 스크린샷 (Screenshots)
+| **Before** | **After** |
+|:---:|:---:|
+|  |  |
+
+## 🔗 관련 이슈 (Related Issues)
+- Resolves #
+
+## ✅ 체크리스트 (Self Checklist)
+- [ ] `main` 브랜치와 충돌이 없는지 확인했나요?
+- [ ] 의미 없는 주석이나 불필요한 로그(`System.out.println`)를 제거했나요?
+- [ ] 빌드가 정상적으로 수행되나요?
